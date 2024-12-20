@@ -67,35 +67,6 @@
 
 ---
 
-### 🚀 Major Projects
-
-**Traffic Volume Prediction using Car Inbuilt Wi-Fi and Bluetooth**  
-*Feb 2024 – March 2024*  
-[GitHub](https://github.com/Radio-active-Boys/MiniProject)  
-- 🚗 Engineered Raspberry Pi module for Bluetooth/Wi-Fi signal detection.
-- 📈 Enhanced real-time detection algorithms, improving accuracy by 80%.
-
-**Computer Vision and Object Detection**  
-[GitHub](https://github.com/Radio-active-Boys/open-cv-count-people)  
-- 👁️ Developed real-time people counting system using YOLO object detection.
-
-**Street Light Fault Detection and Location Tracking**  
-[GitHub](https://github.com/Radio-active-Boys/StreetLight)  
-- 🏙️ Developed Centralized Monitoring System using LoRa technology.
-
----
-
-### 🌟 Other Projects
-
-- 🤖 Developed machine learning model for house price prediction using TensorFlow.
-- 📊 Created real-time data visualization dashboard using three.js.
-- 💬 Designed web-based chat application using Socket.io.
-- 🌱 Implemented smart watering system with Arduino for automated plant care.
-- 🏡 Programmed home automation system using Raspberry Pi for remote appliance control.
-- 🚁 Collaborated on building autonomous drone for aerial surveillance using OpenCV.
-
----
-
 ### 🌟 About Me
 
 I'm an aspiring **Software Engineering Intern** with a strong foundation in computer science, pursuing a Bachelor’s in Computer Science and Engineering at IIT Jammu. Proficient in Python, JavaScript, C, C++, and Java, I excel in web development, IoT, and embedded systems. Skilled in Unix/Linux, algorithms, and software design, I'm passionate about distributed systems, machine learning, and computer vision.
